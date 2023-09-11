@@ -3,13 +3,11 @@ import { useEffect, useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import AnimatedLetters from "../AnimatedLetters/AnimatedLetters";
 import {
-  faAngular,
   faCss3,
   faGitAlt,
   faGithub,
   faHtml5,
   faJsSquare,
-  faPython,
   faReact,
 } from "@fortawesome/free-brands-svg-icons";
 import "./About.scss";
@@ -69,12 +67,7 @@ const About = () => {
             more exciting projects. I'm always eager to learn and adapt to
             emerging technologies in this ever-evolving field.
           </p>
-          <p align="JUSTIFY">
-            📩 If you're interested in discussing a project, have a
-            collaboration opportunity, or just want to chat about all things
-            React, feel free to reach out. I'm always open to new connections
-            and adventures in the world of web development!
-          </p>
+          
           <div className="flat_button">
             <a target="_blank" href="/Amit Resume.pdf">
               RESUME
@@ -94,7 +87,7 @@ const About = () => {
               <FontAwesomeIcon icon={faCss3} color="#28A4D9" />
             </div>
             <div className="face4">
-              <FontAwesomeIcon icon={faPython} color="#0075FF" />
+              <FontAwesomeIcon icon={faReact} color="#0075FF" />
             </div>
             <div className="face5">
               <FontAwesomeIcon icon={faJsSquare} color="#1def4a" />
