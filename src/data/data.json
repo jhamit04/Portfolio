@@ -1,31 +1,9 @@
 [
     {
-      "id":"one",
-      "cover": "https://github.com/chiragf27/chiragferwani/blob/main/public/workim1.png?raw=true",
-      "title": "PORTFOLIO",
-      "description": "React, JSX, SCSS",
-      "url": "https://chiragferwani.vercel.app/"
-    },
-    {
       "id":"two",
-      "cover": "https://github.com/chiragf27/chiragferwani/blob/main/public/pypassmanager.png?raw=true",
-      "title": "PYPassManager",
-      "description": "Python, Tkinter, JSON",
-      "url": "https://github.com/chiragf27/PyPassManager"
-    },
-    {
-      "id":"three",
-      "cover": "https://github.com/chiragf27/chiragferwani/blob/main/public/vpn.jpg?raw=true",
-      "title": "VPNSneak",
-      "description": "Flutter, RaspberryPi",
-      "url": "https://github.com/chiragf27/VPNSneak"
-    },
-    
-    {
-      "id":"four",
-      "cover": "https://github.com/chiragf27/chiragferwani/blob/main/public/websitepy.png?raw=true",
-      "title": "PY Projects",
-      "description": "Python Projects",
-      "url": "https://pythonprojects.netlify.app/"
+      "cover": "https://github.com/jhamit04/image/blob/main/Screenshot%202023-09-10%20233648.png",
+      "title": "MovieSearch",
+      "description": "React, Redux, JavaScript, CSS",
+      "url": "https://github.com/jhamit04/ReactPractice/tree/master/MovieSearch/movie_app"
     }
   ]
