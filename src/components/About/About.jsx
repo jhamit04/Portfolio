@@ -34,12 +34,7 @@ const About = () => {
               idx={15}
             />
           </h1>
-          <p align="JUSTIFY">
-            👋 Hi there! I'm Amit, a passionate React developer with 1.5 years
-            of hands-on experience in building modern web applications. I thrive
-            on turning ideas into interactive and user-friendly digital
-            experiences.
-          </p>
+        
           <p align="JUSTIFY">
             🚀 My journey into the world of web development began with a
             fascination for creating dynamic and responsive websites. Over the
