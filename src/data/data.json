@@ -5,5 +5,12 @@
       "title": "MovieSearch",
       "description": "React, Redux, JavaScript, CSS",
       "url": "https://github.com/jhamit04/ReactPractice/tree/master/MovieSearch/movie_app"
+    },
+    {
+      "id":"two",
+      "cover": "",
+      "title": "MovieSearch",
+      "description": "React, Redux, JavaScript, CSS",
+      "url": "https://github.com/jhamit04/ReactPractice/tree/master/MovieSearch/movie_app"
     }
   ]

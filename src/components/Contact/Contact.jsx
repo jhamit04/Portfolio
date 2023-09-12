@@ -25,7 +25,7 @@ const Contact = () => {
         "service_s3poe6l",
         "template_kyorwdx",
         form.current,
-        "kTKk2K3cmLUDgwDtz"
+        "4ka0AvXbXIcAG8Zvq"
       )
       .then(
         () => {
